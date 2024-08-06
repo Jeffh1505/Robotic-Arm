@@ -76,7 +76,7 @@
   <img src="https://github.com/Jeffh1505/Robotic-Arm/blob/ca8d28577ea20a32f708dfd36b841a662abd08b3/Images/20240727_005540836_iOS.jpg" alt="Actual Robot" width="400"/>
 </div>
 
-The **Jeffrey Hernandez Robotic Arm** is an advanced robotic arm project designed for precision and versatility. It uses a Raspberry Pi Pico as the central control unit, integrated with SG90 servos for movement and a PCA9685 board for expanded servo control. The project aims to explore and demonstrate the capabilities of servo-based robotics with a user-friendly interface.
+The **MechArm Robotic Arm** is an advanced robotic arm project designed for precision and versatility. It uses a Raspberry Pi Pico as the central control unit, integrated with SG90 servos for movement and a PCA9685 board for expanded servo control. The project aims to explore and demonstrate the capabilities of servo-based robotics with a user-friendly interface.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -200,10 +200,10 @@ Project Link: [https://github.com/Jeffh1505/Robotic-Arm](https://github.com/Jeff
 [stars-url]: https://github.com/Jeffh1505/Robotic-Arm/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Jeffh1505/Robotic-Arm.svg?style=for-the-badge
 [issues-url]: https://github.com/Jeffh1505/Robotic-Arm/issues
-[license-shield]: https://img.shields.io/github/license-MIT-blue/Jeffh1505/Robotic-Arm.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Jeffh1505/Robotic-Arm.svg?style=for-the-badge
 [license-url]: https://github.com/Jeffh1505/Robotic-Arm/blob/de5ad141a244e4c7955a105685d15317e0745402/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/jeffreyhernandez
+[linkedin-url]: https://linkedin.com/in/jeffreyhernandez](https://www.linkedin.com/in/jeffrey-hernandez-columbia/?profileId=ACoAADaXbAcBC-GPBAuz8rzZmyCnu3wHvqKw_f8
 [product-screenshot]: https://github.com/Jeffh1505/Robotic-Arm/blob/2bc25584afa35375e4da769b79eef2e5bba5cad9/Images/Screenshot%202024-07-26%20163946.png
 [MicroPython]: https://img.shields.io/badge/MicroPython-black?logo=micropython
 [MicroPython-url]: https://micropython.org/
