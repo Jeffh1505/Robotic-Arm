@@ -11,4 +11,4 @@ i2c = I2C(id=id, sda=sda, scl=scl)
 pca = PCA9685(i2c=i2c)
 # pca.i2c = i2c
 servo = Servos(i2c=i2c)
-servo.position(index=14, degrees=120)
+servo.position(index=15, degrees=170)
